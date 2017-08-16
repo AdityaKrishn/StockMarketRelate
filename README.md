@@ -1,8 +1,6 @@
 Predicting Stock Market Returns 
 ========
 
-This repository contains the code for the portfolio project I'm working on at **Data Science Retreat** (Berlin).
-
 The project aim is to build a model to predict **Stock Market prices**, using a combination of Machine Learning Algorithms.
 
 The output of the prediction are the daily returns of S&P-500 index. I'm exploring two possible different problems:
